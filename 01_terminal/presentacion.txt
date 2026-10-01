@@ -1,0 +1,3 @@
+Nombre: Nombre Apellidos
+Curso: DAM / DAW
+Este es mi primer ejercicio utilizando Git.
